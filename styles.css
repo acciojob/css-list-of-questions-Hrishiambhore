@@ -10,7 +10,7 @@ body {
   border-left: 8px solid green; /* corrected */
   margin-top: 20px;             /* already correct */
   padding: 15px;                /* corrected */
-  height: 100px;                /* added */
+  height: 50px;                 /* corrected */
   max-width: 600px;             /* added */
   font-family: Arial, sans-serif;
 }
