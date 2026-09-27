@@ -1,11 +1,17 @@
 
 /* Your CSS Code here. */
+/* Background color */
+body {
+  background-color: #f8fffe;
+}
+
 /* Style for all question blocks */
 .questions {
-  border-left: 4px solid #333;
-  margin: 20px;
-  padding: 10px;
-  background-color: #f9f9f9;
+  border-left: 8px solid green; /* corrected */
+  margin-top: 20px;             /* already correct */
+  padding: 15px;                /* corrected */
+  height: 100px;                /* added */
+  max-width: 600px;             /* added */
   font-family: Arial, sans-serif;
 }
 
